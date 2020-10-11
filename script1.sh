@@ -1,3 +1,4 @@
 hostname -I
 date
-sudo yum install httpd -y
+sudo apt-get update
+sudo apt-get install wget
